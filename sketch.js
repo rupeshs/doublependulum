@@ -1,4 +1,5 @@
-//https://www.myphysicslab.com/pendulum/double-pendulum-en.html
+//(c) 2018 Rupesh Sreeraman
+// Motion equation Reference :: https://www.myphysicslab.com/pendulum/double-pendulum-en.html
 
 var settings = {
     length1: 150,
