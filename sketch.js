@@ -2,10 +2,10 @@
 // Motion equation Reference :: https://www.myphysicslab.com/pendulum/double-pendulum-en.html
 
 var settings = {
-    length1: 150,
-    length2: 150,
-    mass1:30,
-	mass2:30,
+    length1: 100,
+    length2: 100,
+    mass1:20,
+	mass2:20,
     gravity:1
   };
 
@@ -23,7 +23,7 @@ let a2_v=0;
 let g=1;
 
 let x_trans=window.innerWidth/2;
-let y_trans=200;
+let y_trans=230;
 
 let ox2=-1;
 let py2=-1;
